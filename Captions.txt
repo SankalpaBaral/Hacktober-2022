@@ -30,6 +30,6 @@
 },
 {
   "language" : "English",
-  "Caption"  : "Good is not good enough. I deserve more and that’s greatness."
-},
+  "Caption"  : "Genius is one percent inspiration and ninety-nine percent perspiration."
+  },
 ]
