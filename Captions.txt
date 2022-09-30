@@ -23,4 +23,8 @@
   "language" : "English",
   "Caption"  : "Close the eyes and experience paradise."
 },
+{
+  "language" : "English",
+  "Caption"  : "The purpose of our lives is to be happy."
+}
 ]
