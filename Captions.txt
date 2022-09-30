@@ -28,4 +28,8 @@
   "language" : "English",
   "Caption"  : "If you don’t know where you’re going, any road will take you there"
 },
+{
+  "language" : "English",
+  "Caption"  : "Good is not good enough. I deserve more and that’s greatness."
+},
 ]
