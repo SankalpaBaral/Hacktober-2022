@@ -12,4 +12,9 @@
  "Quote"  : "If you don’t take risks, you can’t create a future!"
  "Character" : "Monkey D. Luffy"
 },
+{
+ "Anime" : "Full Metal Alchemist",
+ "Quote"  : "The world isn’t perfect. But it’s there for us, doing the best it can… that’s what makes it so damn beautiful."
+ "Character" : "Roy Mustang"
+},
 ]
