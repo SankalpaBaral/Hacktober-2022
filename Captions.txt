@@ -5,6 +5,10 @@
   "language" : "English",
   "Caption"  : "Out of Sight, Out of Mind."
 },
+ {
+  "language" : "English",
+  "Caption"  : "Reality is the stillness buried deep beneath the illusion"
+  },
 { "language" : "French"
   "caption : "people say it is possible, but we need practice."
 },
