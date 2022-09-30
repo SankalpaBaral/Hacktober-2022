@@ -11,4 +11,7 @@
  {"language" : "English",
   "PickUpLine" : "Me without you is like a marketer without analytics. Lost, visionless, and confused."
  },
+ {"language" : "English",
+  "PickUpLine" : "You’re strong because you never had the choice to be weak."
+ },
 ]
