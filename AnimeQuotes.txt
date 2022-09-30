@@ -13,8 +13,15 @@
  "Character" : "Monkey D. Luffy"
 },
 {
- "Anime" : "Gildarts Clive",
- "Quote"  : "“Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder.”"
- "Character" : "Fairy Tail"
+ "Anime" : "Full Metal Alchemist",
+ "Quote"  : "The world isn’t perfect. But it’s there for us, doing the best it can… that’s what makes it so damn beautiful."
+ "Character" : "Roy Mustang"
 },
+
+{
+ "Anime" : "Darling in the Franxx",
+ "Quote"  : "I think I have taken a liking to you. Won't you be my darling?"
+ "Character" : "Zero Two"
+},
+
 ]
