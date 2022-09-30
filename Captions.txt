@@ -14,6 +14,11 @@
 },
 {
   "language" : "English",
+  "Caption"  : "Every journey has a final day. Don't Rush."
+  },
+{
+  "language" : "English",
+  "Caption"  : "You can regret a lot of things but you'll never regret being kind."
   "Caption"  : "If you're offered a seat on a rocket ship, don't ask what seat. Just get on."
 },
 ]
