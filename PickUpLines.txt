@@ -1,0 +1,7 @@
+[{"language" : "English",
+  "PickUpLine" : "Your hand looks heavy, let me hold it for you."
+ },
+ {"language" : "English",
+  "PickUpLine" : "Are you a bank loan? Well, you’ve certainly got my interest."
+ },
+]
