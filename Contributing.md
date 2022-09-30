@@ -15,7 +15,7 @@
  {
    "Anime Name" : "Death Note"
    
-   "Quote" : "The real evil is the power to kill people. Someone who finds himself with that power is cursed. No matter how you use it, anything obtained by killing people can never bring true happiness"
+   "Quote" : "The real evil is the power to kill people. Someone who finds himself with that power is cursed. No matter how you use it, anything obtained by killing         people can never bring true happiness"
    
    "Character Name" : " Soichiro Yagami"  
  }
