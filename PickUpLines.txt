@@ -4,4 +4,8 @@
  {"language" : "English",
   "PickUpLine" : "Are you a bank loan? Well, you’ve certainly got my interest."
  },
+ 
+{"language" : "English",
+  "PickUpLine" : "Are you a parking ticket?Cause you’ve got ‘fine’ written all over you."
+ },
 ]

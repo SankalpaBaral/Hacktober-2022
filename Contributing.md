@@ -15,7 +15,7 @@
  {
    "Anime Name" : "Death Note"
    
-   "Quote" : "Maybe, just maybe, there is no purpose in life… but if you linger a while longer in this world, you might discover something of value in it"
+   "Quote" : "The real evil is the power to kill people. Someone who finds himself with that power is cursed. No matter how you use it, anything obtained by killing people can never bring true happiness"
    
-   "Character Name" : "Orochimaru"  
+   "Character Name" : " Soichiro Yagami"  
  }
