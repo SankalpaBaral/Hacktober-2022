@@ -14,4 +14,7 @@
  {"language" : "English",
   "PickUpLine" : "You’re strong because you never had the choice to be weak."
  },
+  {"language" : "English",
+  "PickUpLine" : "My love for you is like diarrhea, I just can't hold it in."
+ },
 ]
